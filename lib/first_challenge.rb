@@ -1,3 +1,3 @@
-def first_challenge(family_name)
+def first_challenge
    epic_tragedy = {montague: "", capulet: ""}
 end
